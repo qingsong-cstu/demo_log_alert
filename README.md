@@ -1,4 +1,4 @@
-# Sample application for tutorials
+# Hands on to create alert and logs in Grafana
 
 This repository contains the environment for completing the tutorials.
 
